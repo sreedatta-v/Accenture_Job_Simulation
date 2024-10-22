@@ -164,3 +164,32 @@ https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNL
 <b>As a reminder from the earlier task</b> - this includes: Andrew Fleming (Chief Technical Architect), Marcus Rompton (Senior Principle), and yourself!  
 <b>Process</b> - How did you complete your analysis?  
 
+## Data Visualization: 
+
+![Data Viz](https://github.com/sreedatta-v/Accenture_Job_Simulation/blob/main/Social%20Buzz.png)
+
+## Summary: 
+Summary of Social Buzz Visualization
+
+### Overall Performance:
+
+The platform has seen significant engagement, with a high count of reactions and content IDs.  
+The sentiment analysis indicates a predominantly positive sentiment, with a smaller number of neutral and negative reactions.  
+
+### Content Performance:
+
+<b>Reaction Types: </b>The "love" reaction is the most popular, followed by "want" and "cherish."  
+<b>Content Types:</b> Videos and photos are the most popular content types, followed by GIFs and audio.  
+<b>Content Categories: </b>"Animals" and "science" are the top-performing categories in terms of the sum of scores.  
+
+### Engagement Metrics:
+
+<b>Average Score by Content Type: </b>Videos have the highest average score, followed by photos.  
+<b>Sum of Score by Category: </b>"Animals" has the highest sum of scores, indicating strong engagement.  
+<b>Sum of Score by Sentiment: </b>Positive sentiment dominates, with a significantly higher sum of scores compared to neutral and negative sentiments.  
+
+### Key Insights:
+
+<b>Positive Sentiment:</b> The platform is predominantly fostering positive interactions and content.  
+<b>Visual Content Popularity: </b>Videos and photos are driving engagement, suggesting a preference for visual content.  
+<b>Category Engagement: </b>"Animals" and "science" are particularly popular, potentially indicating niche interests or areas for further exploration.  
